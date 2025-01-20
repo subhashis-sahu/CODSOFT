@@ -1,3 +1,5 @@
+# CodSoft Internship
+
 # Java Programming Internship @ CodSoft
 
 ## About the Internship
@@ -18,6 +20,5 @@ A huge thanks to **CodSoft** for trusting me with this opportunity. I am looking
 
 ---
 
-*Feel free to connect with me on [LinkedIn](https://www.linkedin.com/) to follow my progress!*
-# CodSoft
+*Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/subhashis01/) to follow my progress!*
 # CodSoft
